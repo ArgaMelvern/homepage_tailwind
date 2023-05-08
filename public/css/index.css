@@ -1,0 +1,8 @@
+html,
+.bg-image- {
+    background-image: url("/assets/images/Image.png");
+}
+
+.rotate-90 {
+    transform: rotate(90deg);
+}
